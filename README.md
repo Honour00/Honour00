@@ -10,4 +10,9 @@ My work focuses on:
 
 I believe in learning by doing, and I’m documenting every step of my journey(one dataset at a time).
 
-Open to internships, collaborations, and mentorship opportunities.
+I’m open to:
+- **Internship opportunities**
+- **Entry-level/remote job roles**
+- **Collaborations with other analysts or developers**
+- **Mentorship (both giving and receiving)**
+
