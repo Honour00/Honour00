@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi there! I'm **Alabi Usman Ayodeji**, a **Data Analyst** passionate about extracting insights from data to support decision-making.
 
-<!--
-**Honour00/Honour00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy analyzing business data using tools like **Excel**, **Power BI**, **SQL**, and **Python**, and I'm currently building my portfolio through real-world projects.
 
-Here are some ideas to get you started:
+My work focuses on:
+- Interactive dashboards & reports
+- Sales and revenue performance tracking
+- Market and customer segmentation
+- Data storytelling and visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I believe in learning by doing, and I’m documenting every step of my journey(one dataset at a time).
+
+Open to internships, collaborations, and mentorship opportunities.
